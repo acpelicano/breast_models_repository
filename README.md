@@ -1,9 +1,9 @@
 # breast_models_repository
 
 ## Introduction & Motivation ##
-This repository includes 6 anatomically realistic 3D numerical models of breast tissues and tumours of 2 patients obtained from breast Magnetic Resonance Imaging (MRI) scans. We chose to analyse one benign and one malignant breast tumour exams. The benign tumour corresponds to a standard benign infra-centimetric tumour of rounded shape and the selected malignant tumour is an invasive tumour of irregular shape, with approximately 8 cm along its major axis, and extremely heterogenous regarding voxels intensities.
+Currently, this repository includes 6 anatomically realistic 3D numerical models of breast tissues and tumours of 2 patients obtained from breast Magnetic Resonance Imaging (MRI) scans. We chose to analyse one benign and one malignant breast tumour exams. The benign tumour corresponds to a standard benign infra-centimetric tumour of rounded shape and the selected malignant tumour is an invasive tumour of irregular shape, with approximately 8 cm along its major axis, and extremely heterogenous regarding voxels intensities.
 The developed models include the dielectric properties of breast tissues and tumours between 3 and 10 GHz, suitable for MW applications, such as diagnosis and therapy, leveraging the simulation and experimental MicroWave Imaging (MWI) testing field.  
-The purpose of this repository is to provide the research community with the first available repository of realistic breast tissues, as well as tumorous tissues, which can be used for the improvement and validation of MWI systems.
+The purpose of this repository is to provide the research community with a repository of multiple anatomically realistic breast models, including benign and malignant tumorous tissues, which can be used for the improvement and validation of MWI systems.
 
 ## Repository Structure ##
 We provide two folders, one for the benign tumour exam and the other for the malignant tumour exam. Both folders contain:
