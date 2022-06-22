@@ -23,4 +23,4 @@ Women were imaged in a prone position in a 3.0T MAGNETON Vida clinical MR scan (
 ## Cite Us ##
 If you use some of these models, please cite us with:
 
-Ana Catarina Pelicano, Maria C. T. Gonçalves, Daniela M. Godinho, Tiago Castela, M. Lurdes Orvalho, Nuno A. M. Araújo, Emily Porter, and Raquel C. Conceição, “Development of 3D MRI-based anatomically realistic numerical models of breast tissues and tumours for Microwave Imaging diagnosis” (under review in Sensors, 2021).
+Pelicano, A.C.; Gonçalves, M.C.T.; Godinho, D.M.; Castela, T.; Orvalho, M.L.; Araújo, N.A.M.; Porter, E.; Conceição, R.C. Development of 3D MRI-Based Anatomically Realistic Models of Breast Tissues and Tumours for Microwave Imaging Diagnosis. Sensors 2021, 21, 8265. https://doi.org/10.3390/s21248265
