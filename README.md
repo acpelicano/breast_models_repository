@@ -10,7 +10,7 @@ We provide two folders, one for the benign tumour exam and the other for the mal
 - Breast_mask, a mask of the breast region;
 - Tumour_mask, a mask of the tumour;
 - Label_map_simple, a lab map including tumour (label -3), skin (label -2), muscle (label -1), background (label 0), fat+fibroglandular (label 1);
-- Label_map_detailed, a lab map including tumour (label -3), skin (label -2), muscle (label -1), background (label 0), fat_high (label 7), fat_median (label 6), fat_low (label 5), transition (label 4), fibroglandular_high (label 3), fibroglandular_median (label 2), fibroglandular_low (label 1);
+- Label_map_detailed, a lab map including tumour (label -3), skin (label -2), muscle (label -1), background (label 0), fat_high (label 7), fat_median (label 6), fat_low (label 5), transition (label 4), fibroglandular_high (label 1), fibroglandular_median (label 2), fibroglandular_low (label 3);
 - T1-w_Dixon-I_pre-processed, an in-phase image after bias correction, data normalisation, and background subtraction;
 - Conductivity_(3,6 or 9)GHz, map with the estimated conductivity values for (3, 6 or 9) GHz.
 - Permittivity_(3,6 or 9)GHz, map with the estimated relative permittivity values for (3, 6 or 9) GHz.
