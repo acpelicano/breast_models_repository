@@ -17,7 +17,7 @@ We provide two folders, one for the benign tumour exam and the other for the mal
 
 ## Exams ##
 | ID | No. Benign tumours | No. Malignant Tumours |
-|----|--------------------|-----------------------|
+|:--:|:------------------:|:---------------------:|
 | 01 |         1          |           0           |
 | 02 |         0          |           1           |
 | 03 |         0          |           1           |
