@@ -15,6 +15,23 @@ We provide two folders, one for the benign tumour exam and the other for the mal
 - Conductivity_(3,6 or 9)GHz, map with the estimated conductivity values for (3, 6 or 9) GHz.
 - Permittivity_(3,6 or 9)GHz, map with the estimated relative permittivity values for (3, 6 or 9) GHz.
 
+## Exams ##
+| ID | No. Benign tumours | No. Malignant Tumours |
+|----|--------------------|-----------------------|
+| 01 |         1          |           0           |
+| 02 |         0          |           1           |
+| 03 |         0          |           1           |
+| 04 |         1          |           1           |
+| 05 |         2          |           0           |
+| 06 |         0          |           1           |
+| 07 |         0          |           1           |
+| 08 |         2          |           1           |
+| 09 |         0          |           0           |
+| 10 |         0          |           1           |
+| 11 |         0          |           1           |
+| 12 |         0          |           2           |
+| 13 |         0          |           1           |
+
 ## Compatibility ##
 All files are provided in MHA format. The files were created with the original resolution of the MRI scans.
 
