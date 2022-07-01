@@ -16,21 +16,21 @@ We provide two folders, one for the benign tumour exam and the other for the mal
 - Permittivity_(3,6 or 9)GHz, map with the estimated relative permittivity values for (3, 6 or 9) GHz.
 
 ## Exams ##
-| ID | No. Benign tumours (size in mm) | No. Malignant Tumours (size in mm) |
-|:--:|:-------------------------------:|:----------------------------------:|
-| 01 |         1 (6.9)                 |           0                        |
-| 02 |         0                       |           1 (80.0)                 |
-| 03 |         0                       |           1 (11.2)                 |
-| 04 |         1 (14.0)                |           1 (9.7)                  |
-| 05 |         2 (19.6 and 15.5)       |           0                        |
-| 06 |         0                       |           1 (14.4)                 |
-| 07 |         0                       |           1 (12.4)                 |
-| 08 |         0                       |           1 (20.2)                 |
-| 09 |         2(9.7 and 6.1)          |           0                        |
-| 10 |         0                       |           1 (24.0)                 |
-| 11 |         0                       |           1  (33.2)                |
-| 12 |         0                       |           2  (11.2 and 10.0)       |
-| 13 |         0                       |           1 ( 12.5)                | 
+| ID | No. Benign tumours | No. Malignant Tumours | Size of Tumours (mm) |
+|:--:|:------------------:|:---------------------:|:--------------------:|
+| 01 |         1          |           0           | (6.9x6.9x5.2)        |
+| 02 |         0          |           1           | (80.9x74.9x56.2)     |
+| 03 |         0          |           1           | (8.5x11.2x9.2)       |
+| 04 |         1          |           1           |Benign(14.0x11.1x6.5) Malignant(9.7x8.7x8.6)|
+| 05 |         2          |           0           |Bigger(19.1x19.6x18.2) Smaller(15.5x15.3x13.7)|
+| 06 |         0          |           1           |(12.8x13.5x14.4)      |
+| 07 |         0          |           1           |(8.4x12.4x10.5)       |
+| 08 |         0          |           1           |(18.8x19.1x20.2)      |
+| 09 |         2          |           0           |Bigger(9.7x7.8x5.4) Smaller(6.1x5.7x5.6)|
+| 10 |         0          |           1           |(23.1x24.0x23.2)      |
+| 11 |         0          |           1           |(33.2x32.6x29.9)      |
+| 12 |         0          |           2           |Bigger(11.2x8.9x6.8) Smaller(10.0x10.1x7.7)|
+| 13 |         0          |           1           | (12.5x10.9x12.5)     |
 
 ## Compatibility ##
 All files are provided in MHA format. The files were created with the original resolution of the MRI scans.
