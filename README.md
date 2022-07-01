@@ -3,7 +3,7 @@
 ## Introduction & Motivation ##
 The purpose of this repository is to provide the research community with a repository of multiple anatomically realistic breast models, including benign and malignant tumorous tissues, which can be used for the improvement and validation of Microwave Imaging (MWI) systems.
 The developed models include the dielectric properties of breast tissues and tumours at 3, 6 and 9 GHz, suitable for MW applications, such as diagnosis and therapy, leveraging the simulation and experimental MWI testing field.  
-Currently, this repository includes 78 3D anatomically realistic numerical models of breast tissues with a total of 17 tumours (6 benign and 11 malignant) obtained from breast Magnetic Resonance Imaging (MRI) scans of 13 patients.
+Currently, this repository includes 84 3D anatomically realistic numerical models of breast tissues with a total of 18 tumours (6 benign and 12 malignant) obtained from breast Magnetic Resonance Imaging (MRI) scans of 14 patients.
 
 ## Repository Structure ##
 We provide two folders, one for the benign tumour exam and the other for the malignant tumour exam. Both folders contain:
@@ -31,6 +31,7 @@ We provide two folders, one for the benign tumour exam and the other for the mal
 | 11 |         0          |           1           |(33.2x32.6x29.9)      |
 | 12 |         0          |           2           |Bigger(11.2x8.9x6.8) Smaller(10.0x10.1x7.7)|
 | 13 |         0          |           1           | (12.5x10.9x12.5)     |
+| 14 |         0          |           1           |(11.2x11.0x10.3)      |
 
 ## Compatibility ##
 All files are provided in MHA format. The files were created with the original resolution of the MRI scans.
