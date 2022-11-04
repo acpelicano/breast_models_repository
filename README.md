@@ -26,7 +26,7 @@ We provide one folder per patient, containing:
 | 09 |         2          |           0           |Large (9.7x7.8x5.4); Small (6.1x5.7x5.6)|
 | 10 |         0          |           1           |(23.1x24.0x23.2)      |
 | 11 |         0          |           1           |(33.2x32.6x29.9)      |
-| 12 |         0          |           2           |Large (11.2x8.9x6.8); Small(10.0x10.1x7.7)|
+| 12 |         0          |           2           |Large (11.2x8.9x6.8); Small (10.0x10.1x7.7)|
 | 13 |         0          |           1           | (12.5x10.9x12.5)     |
 | 14 |         0          |           1           |(11.2x11.0x10.3)      |
 | 15 |         0          |           1           |  (27.7x24.9x19.7)    |
@@ -39,7 +39,7 @@ We provide one folder per patient, containing:
 | 22 |         0          |           1           |    (11.4x11.4x10.6)  |
 | 23 |         0          |           1           | (7.1x7.3x5.4)        |
 | 24 |         0          |           1           |  (47.1x29.5x39.2)    |
-| 25 |         2          |           0           |Large (8.1x7.1x6.2); Small ((5.4x5.4x5.0)|
+| 25 |         2          |           0           |Large (8.1x7.1x6.2); Small (5.4x5.4x5.0)|
 | 26 |         0          |           1           | (21.8x25.3x25.9)     |
 
 ## Compatibility ##
