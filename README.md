@@ -44,6 +44,8 @@ We provide one folder per patient, containing:
 | 27 |         0          |           1           | (30.9x26.7x28.3)     |
 | 28 |         0          |           1           | (46.2x38.1x44.7)     |
 | 29 |         1          |           0           | (16.2x19.3x16.1)     |
+| 30 |         1          |           0           | (9.6x11.3x6.4)       |
+
 
 ## Compatibility ##
 All files are provided in MHA format. The files were created with the original resolution of the MRI scans.
