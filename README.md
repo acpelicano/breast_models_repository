@@ -45,6 +45,7 @@ We provide one folder per patient, containing:
 | 28 |         0          |           1           | (46.2x38.1x44.7)     |
 | 29 |         1          |           0           | (16.2x19.3x16.1)     |
 | 30 |         1          |           0           | (9.6x11.3x6.4)       |
+| 31 |         5          |           0           | XLarge (13.77x16.60x8.55); Large (13.24x15.70x11.39); Medium (10.0x10.8x7.97); Small (9.55x8.31x10.45); XSmall (10.34x9.01x8.14)|
 
 
 ## Compatibility ##
