@@ -6,10 +6,10 @@ Currently, the dataset comprises anatomically realistic numerical models of brea
 
 ## Repository Structure ##
 We provide one folder per patient, containing:
-- Breast_mask, a mask of the breast region;
-- Label_map_simple, a label map including benign tumour (label -4), malignant tumour (label -3), skin (label -2), muscle (label -1), background (label 0), fat (label 1);
-- Label_map_detailed, a label map including benign tumour (label -4), malignant tumour (label -3), skin (label -2), muscle (label -1), background (label 0), fat_high (label 7), fat_median (label 6), fat_low (label 5), transition (label 4), fibroglandular_high (label 3), fibroglandular_median (label 2), fibroglandular_low (label 1) - the labels low, median and high refer to the voxel intensities;
-- T1-w_Dixon-W_pre-processed, an water image after bias correction, data normalisation, and background subtraction;
+
+- Label_map_simple: a label map including benign tumour (label -4), malignant tumour (label -3), skin (label -2), muscle (label -1), background (label 0), fat (label 1);
+- Label_map_detailed: a label map including benign tumour (label -4), malignant tumour (label -3), skin (label -2), muscle (label -1), background (label 0), fat_high (label 7), fat_median (label 6), fat_low (label 5), transition (label 4), fibroglandular_high (label 3), fibroglandular_median (label 2), fibroglandular_low (label 1) - the labels low, median and high refer to the voxel intensities;
+- T1-w_Dixon-W_pre-processed: a Dixon water image after bias correction, data normalisation, and background subtraction.
 
 
 ## Exams ##
