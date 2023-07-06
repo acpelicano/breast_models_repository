@@ -50,6 +50,10 @@ We provide one folder per patient, containing:
 | 33 |         1          |           0           | (6.9x6.8x8.2)        |
 | 34 |         0          |           1           | (15.2x17.4x13.7)     |
 | 35 |         1          |           0           | (6.9x6.9x6.9)        |
+| 36 |         0          |           1           | (18.3x23.5x18.9)     |
+| 37 |         0          |           1           | (15.2x17.4x13x7)     |
+
+
 
 
 ## Compatibility ##
