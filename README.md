@@ -61,7 +61,8 @@ We provide one folder per patient, containing:
 | 44 |         1          |            0          |   (9.1x9.1x7.6)    |
 | 45 |           0        |              1        |    (16.7x17.3x15.9)  |
 | 46 |           0        |              1        |    (42.5x37.4x29.0)  |
-| 47 |           1        |              2        |    Malignant Large (34.92x43.25x39.84); Malignant Small (9.40x7.81x6.51); Benign (7.4x9.3x8.1)  |
+| 47 |           1        |              2        |    Malignant Large (34.9x43.3x39.8); Malignant Small (9.40x7.81x6.51); Benign (7.4x9.3x8.1)  |
+| 48 |           3        |              2        |    Malignant Large (40.3x41.8x21.1); Malignant Small (9.6x9.1x10.0); Benign Large (9.2x10.8x9.5); Benign Medium (9.2x10.3x9.4); Benign Small (8.1x8.2x8.0)  |
 
 
 ## Compatibility ##
