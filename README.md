@@ -2,7 +2,7 @@
 
 ## Introduction & Motivation ##
 The purpose of this repository is to provide the research community with a repository of multiple anatomically realistic breast models, including benign and malignant tumorous tissues, which can be used for the improvement and validation of Microwave Imaging (MWI) systems. The developed models were derived from 3.0T Magnetic Resonance Images (MRI) of healthy and cancer patients acquired at Hospital da Luz - Lisboa, which includes normal breast tissues (such as fat, fibroglandular, skin, and muscle tissues), and benign and cancerous breast tumours. Additionally, this repository also includes an executable file which generates models containing breast tissues dielectric properties, between 3 and 10 GHz (with a step of 0.01 GHz).
-Currently, the dataset comprises anatomically realistic numerical models of breast tissues of 35 patients with a total of 48 tumours (24 benign and 24 malignant).
+Currently, the dataset comprises anatomically realistic numerical models of breast tissues of 48 patients with a total of 72 tumours (38 benign and 34 malignant).
 
 ## Repository Structure ##
 We provide one folder per patient, containing:
@@ -57,11 +57,12 @@ We provide one folder per patient, containing:
 | 40 |         1          |           0           |  (5.6x6.3x5.0)    |
 | 41 |         0          |           1           |  (10.9x15.0x9.7)    |
 | 42 |         1          |           0           |  (5.8x6.1x6.2)    |
-| 43 |         4          |           1           |  Malignant (30.9X43.8X40.1); BenignXL (19.4x26.8x28.7); BenignL (23.6x20.2x19.7); BenignS(12.3x15.8x14.0); BenignXS (8.7x10.3x10.1)|
+| 43 |         4          |           1           |  Malignant (30.9X43.8X40.1); Benign XLarge (19.4x26.8x28.7); Benign Large (23.6x20.2x19.7); Benign Small (12.3x15.8x14.0); Benign XSmall (8.7x10.3x10.1)|
 | 44 |         1          |            0          |   (9.1x9.1x7.6)    |
 | 45 |           0        |              1        |    (16.7x17.3x15.9)  |
 | 46 |           0        |              1        |    (42.5x37.4x29.0)  |
-| 47 |           1        |              2        |    Malignant Large (34.92x43.25x39.84); Malignant Small (9.40x7.81x6.51); Benign (7.4x9.3x8.1)  |
+| 47 |           1        |              2        |    Malignant Large (34.9x43.3x39.8); Malignant Small (9.40x7.81x6.51); Benign (7.4x9.3x8.1)  |
+| 48 |           3        |              2        |    Malignant Large (40.3x41.8x21.1); Malignant Small (9.6x9.1x10.0); Benign Large (9.2x10.8x9.5); Benign Medium (9.2x10.3x9.4); Benign Small (8.1x8.2x8.0)  |
 
 
 ## Compatibility ##
