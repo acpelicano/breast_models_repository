@@ -2,7 +2,7 @@
 
 ## Introduction & Motivation ##
 The purpose of this repository is to provide the research community with a repository of multiple anatomically realistic breast models, including benign and malignant tumorous tissues, which can be used for the improvement and validation of Microwave Imaging (MWI) systems. The developed models were derived from 3.0T Magnetic Resonance Images (MRI) of healthy and cancer patients acquired at Hospital da Luz - Lisboa, which includes normal breast tissues (such as fat, fibroglandular, skin, and muscle tissues), and benign and cancerous breast tumours. Additionally, this repository also includes an executable file which generates models containing breast tissues dielectric properties, between 3 and 10 GHz (with a step of 0.01 GHz).
-Currently, the dataset comprises anatomically realistic numerical models of breast tissues of 57 patients with a total of 86 tumours (48 benign and 38 malignant).
+Currently, the dataset comprises anatomically realistic numerical models of breast tissues of 55 patients with a total of 84 tumours (46 benign and 38 malignant).
 
 ## Repository Structure ##
 We provide one folder per patient, containing:
@@ -30,48 +30,46 @@ We provide one folder per patient, containing:
 | 13 |         0          |           1           | (12.5x10.9x12.5)     |
 | 14 |         0          |           1           |(11.2x11.0x10.3)      |
 | 15 |         0          |           1           |  (27.7x24.9x19.7)    |
-| 16 |         1          |           0           |    (7.4x7.8x7.8)     |
-| 17 |         0          |           1           |  (11.5x12.1x14.8)    |
-| 18 |         1          |           0           |  (7.9x7.3x6.3)       |
-| 19 |         2          |           0           |Large (49.0x36.6x35.1); Small (8.5x7.9x9.0)|
-| 20 |         0          |           1           | (29.56x30.01x19.33)  |
-| 21 |         1          |           0           |  (13.8x15.8x12.6)    |
-| 22 |         0          |           1           |    (11.4x11.4x10.6)  |
-| 23 |         0          |           1           | (7.1x7.3x5.4)        |
-| 24 |         0          |           1           |  (47.1x29.5x39.2)    |
-| 25 |         2          |           0           |Large (8.1x7.1x6.2); Small (5.4x5.4x5.0)|
-| 26 |         0          |           1           | (21.8x25.3x25.9)     |
-| 27 |         0          |           1           | (30.9x26.7x28.3)     |
-| 28 |         0          |           1           | (46.2x38.1x44.7)     |
-| 29 |         1          |           0           | (16.2x19.3x16.1)     |
-| 30 |         1          |           0           | (9.6x11.3x6.4)       |
-| 31 |         5          |           0           | XLarge (13.8x16.6x8.6); Large (13.2x15.7x11.4); Medium (10.0x10.8x7.97); Small (9.55x8.31x10.5); XSmall (10.3x9.01x8.14)|
-| 32 |         1          |           0           | (7.1x6.5x3.9)        |
-| 33 |         1          |           0           | (6.9x6.8x8.2)        |
-| 34 |         0          |           1           | (15.2x17.4x13.7)     |
-| 35 |         1          |           0           | (6.9x6.9x6.9)        |
-| 36 |         0          |           1           | (18.3x23.5x18.9)     |
-| 37 |         0          |           1           | (11.4x11.5x10.9)     |
-| 38 |         2          |           0           | Large (7.5x6.5x5.1); Small (6.4x3.2x5.8)    |
-| 39 |         1          |           0           |  (7.0x6.7x5.6)    |
-| 40 |         1          |           0           |  (5.6x6.3x5.0)    |
-| 41 |         0          |           1           |  (10.9x15.0x9.7)    |
-| 42 |         1          |           0           |  (5.8x6.1x6.2)    |
-| 43 |         4          |           1           |  Malignant (30.9X43.8X40.1); Benign XLarge (19.4x26.8x28.7); Benign Large (23.6x20.2x19.7); Benign Small (12.3x15.8x14.0); Benign XSmall (8.7x10.3x10.1)|
-| 44 |         1          |            0          |   (9.1x9.1x7.6)    |
-| 45 |           0        |              1        |    (16.7x17.3x15.9)  |
-| 46 |           0        |              1        |    (42.5x37.4x29.0)  |
-| 47 |           1        |              2        |    Malignant Large (34.9x43.3x39.8); Malignant Small (9.40x7.81x6.51); Benign (7.4x9.3x8.1)  |
-| 48 |           3        |              2        |    Malignant Large (40.3x41.8x21.1); Malignant Small (9.6x9.1x10.0); Benign Large (9.2x10.8x9.5); Benign Medium (9.2x10.3x9.4); Benign Small (8.1x8.2x8.0)  |
-| 49 |           2        |              0        |    Large (13.8x17.2x18.2); Small (7.4x6.9x6.3)  |
-| 50 |           2        |              0        |    Large (9.0x11.6x7.9); Small  (10.2x10.2x8.2)  |
-| 51 |           0        |              1        |    (17.5x23.6x23.1)  |
-| 52 |           1        |              0        |      (10.8x8.5x10.3)  |
-| 53 |           1        |              0        |       (6.9x8.1x8.7)  |
-| 54 |           3        |              0        |     Large (16.1x19.4x11.8); Medium (8.5x11.0x10.0); Small  (7.9x7.1x6.9)  |
-| 55 |           0        |              2        |      Large (30.7x32.3x22.1); Small (4.8x5.7x4.8)  |
-| 56 |           1        |              0        |      (6.8x6.1x5.7)   |
-| 57 |           0        |              1        |     (20.9x20.8x15.7)   |
+| 16 |         0          |           1           |  (11.5x12.1x14.8)    |
+| 17 |         1          |           0           |  (7.9x7.3x6.3)       |
+| 18 |         2          |           0           |Large (49.0x36.6x35.1); Small (8.5x7.9x9.0)|
+| 19 |         0          |           1           | (29.56x30.01x19.33)  |
+| 20 |         1          |           0           |  (13.8x15.8x12.6)    |
+| 21 |         0          |           1           |    (11.4x11.4x10.6)  |
+| 22 |         0          |           1           | (7.1x7.3x5.4)        |
+| 23 |         0          |           1           |  (47.1x29.5x39.2)    |
+| 24 |         2          |           0           |Large (8.1x7.1x6.2); Small (5.4x5.4x5.0)|
+| 25 |         0          |           1           | (21.8x25.3x25.9)     |
+| 26 |         0          |           1           | (30.9x26.7x28.3)     |
+| 27 |         0          |           1           | (46.2x38.1x44.7)     |
+| 28 |         1          |           0           | (16.2x19.3x16.1)     |
+| 29 |         1          |           0           | (9.6x11.3x6.4)       |
+| 30 |         5          |           0           | XLarge (13.8x16.6x8.6); Large (13.2x15.7x11.4); Medium (10.0x10.8x7.97); Small (9.55x8.31x10.5); XSmall (10.3x9.01x8.14)|
+| 31 |         1          |           0           | (7.1x6.5x3.9)        |
+| 32 |         1          |           0           | (6.9x6.8x8.2)        |
+| 33 |         0          |           1           | (15.2x17.4x13.7)     |
+| 34 |         1          |           0           | (6.9x6.9x6.9)        |
+| 35 |         0          |           1           | (18.3x23.5x18.9)     |
+| 36 |         0          |           1           | (11.4x11.5x10.9)     |
+| 37 |         2          |           0           | Large (7.5x6.5x5.1); Small (6.4x3.2x5.8)    |
+| 38 |         1          |           0           |  (7.0x6.7x5.6)    |
+| 39 |         1          |           0           |  (5.6x6.3x5.0)    |
+| 40 |         0          |           1           |  (10.9x15.0x9.7)    |
+| 41 |         4          |           1           |  Malignant (30.9X43.8X40.1); Benign XLarge (19.4x26.8x28.7); Benign Large (23.6x20.2x19.7); Benign Small (12.3x15.8x14.0); Benign XSmall (8.7x10.3x10.1)|
+| 42 |         1          |            0          |   (9.1x9.1x7.6)    |
+| 43 |           0        |              1        |    (16.7x17.3x15.9)  |
+| 44 |           0        |              1        |    (42.5x37.4x29.0)  |
+| 45 |           1        |              2        |    Malignant Large (34.9x43.3x39.8); Malignant Small (9.40x7.81x6.51); Benign (7.4x9.3x8.1)  |
+| 46 |           3        |              2        |    Malignant Large (40.3x41.8x21.1); Malignant Small (9.6x9.1x10.0); Benign Large (9.2x10.8x9.5); Benign Medium (9.2x10.3x9.4); Benign Small (8.1x8.2x8.0)  |
+| 47 |           2        |              0        |    Large (13.8x17.2x18.2); Small (7.4x6.9x6.3)  |
+| 48 |           2        |              0        |    Large (9.0x11.6x7.9); Small  (10.2x10.2x8.2)  |
+| 49 |           0        |              1        |    (17.5x23.6x23.1)  |
+| 50 |           1        |              0        |      (10.8x8.5x10.3)  |
+| 51 |           1        |              0        |       (6.9x8.1x8.7)  |
+| 52 |           3        |              0        |     Large (16.1x19.4x11.8); Medium (8.5x11.0x10.0); Small  (7.9x7.1x6.9)  |
+| 53 |           0        |              2        |      Large (30.7x32.3x22.1); Small (4.8x5.7x4.8)  |
+| 54 |           1        |              0        |      (6.8x6.1x5.7)   |
+| 55 |           0        |              1        |     (20.9x20.8x15.7)   |
  
 ## Compatibility ##
 All files are provided in MHA format. The files were created with the original resolution of the MRI scans.
