@@ -70,7 +70,9 @@ We provide one folder per patient, containing:
 | 53 | 22.66 |      0        |              2        |      Large (30.7x32.3x22.1); Small (4.8x5.7x4.8)  |
 | 54 | 25.86 |      1        |              0        |      (6.8x6.1x5.7)   |
 | 55 | 21.88 |      0        |              1        |     (20.9x20.8x15.7)   |
- 
+
+BMI = Body Mass Index
+
 ## Compatibility ##
 All files are provided in MHA format. The files were created with the original resolution of the MRI scans.
 
