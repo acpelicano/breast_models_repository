@@ -15,8 +15,8 @@ We provide one folder per patient, containing:
 ## Exams ##
 | ID |  BMI  |Right Breast (No. of tumours)|Left Breast (No. of tumours)| Size of Tumours (mm) |
 |:--:|:-----:|:---------------------------:|:--------------------------:|:--------------------:|
-| 01 | 20.76 | Benign = 2 Malignant = 0    | Benign = 0 Malignant = 0   | Right Breast: L=(6.8x7.6x7.2); S=(6.9x6.9x5.2) Left Breast = -|
-| 02 | 26.99 |    0          |           3           |Large (80.9x74.9x56.2); Medium (8.4x7.6x7.4); Small (8.1x6.8x8.1)|
+| 01 | 20.76 | Benign = 2 Malignant = 0    | Benign = 0 Malignant = 0   | Right Breast: L=(6.8x7.6x7.2); S=(6.9x6.9x5.2) |
+| 02 | 26.99 | Benign = 0 Malignant = 2    | Benign = 0 Malignant = 1   |Right Breast: M=(8.4x7.6x7.4); S=(8.1x6.8x8.1) Left Breast:L=(80.9x74.9x56.2) |
 | 03 | 25.40 |    0          |           1           | (8.5x11.2x9.2)       |
 | 04 | 23.37 |    1          |           1           |Benign(14.0x11.1x6.5); Malignant(9.7x8.7x8.6)|
 | 05 | 23.87 |    2          |           0           |Large (19.1x19.6x18.2); Small (15.5x15.3x13.7)|
