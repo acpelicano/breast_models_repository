@@ -15,25 +15,25 @@ We provide one folder per patient, containing:
 ## Exams ##
 | ID |  BMI  |Right Breast (No. of tumours)|Left Breast (No. of tumours)| Size of Tumours (mm) |
 |:--:|:-----:|:---------------------------:|:--------------------------:|:--------------------:|
-| 01 | 20.76 | Benign = 2 Malignant = 0    | Benign = 0 Malignant = 0   | Right Breast: L=(6.8x7.6x7.2); S=(6.9x6.9x5.2) |
+| 01 | 20.76 | Benign = 2 Malignant = 0    | Benign = 0 Malignant = 0   |Right Breast: L=(6.8x7.6x7.2); S=(6.9x6.9x5.2) |
 | 02 | 26.99 | Benign = 0 Malignant = 2    | Benign = 0 Malignant = 1   |Right Breast: M=(8.4x7.6x7.4); S=(8.1x6.8x8.1) & Left Breast: L=(80.9x74.9x56.2) |
-| 03 | 25.40 |    0          |           1           | (8.5x11.2x9.2)       |
-| 04 | 23.37 |    1          |           1           |Benign(14.0x11.1x6.5); Malignant(9.7x8.7x8.6)|
-| 05 | 23.87 |    2          |           0           |Large (19.1x19.6x18.2); Small (15.5x15.3x13.7)|
-| 06 | 25.00 |    0          |           1           |(12.8x13.5x14.4)      |
-| 07 | 20.44 |    0          |           1           |(8.4x12.4x10.5)       |
-| 08 | 25.61 |    0          |           1           |(18.8x19.1x20.2)      |
-| 09 | 21.67 |    2          |           0           |Large (9.7x7.8x5.4); Small (6.1x5.7x5.6)|
-| 10 | 31.24 |    0          |           1           |(23.1x24.0x23.2)      |
-| 11 | 30.30 |    0          |           1           |(33.2x32.6x29.9)      |
-| 12 | 29.14 |    0          |           2           |Large (11.2x8.9x6.8); Small (10.0x10.1x7.7)|
-| 13 | 24.24 |    0          |           1           | (12.5x10.9x12.5)     |
-| 14 | 25.78 |    0          |           1           |(11.2x11.0x10.3)      |
-| 15 | 24.46 |    0          |           1           |  (27.7x24.9x19.7)    |
-| 16 | 24.14 |    0          |           1           |  (11.5x12.1x14.8)    |
-| 17 | 28.13 |    1          |           0           |  (7.9x7.3x6.3)       |
-| 18 | 29.36 |    2          |           0           |Large (49.0x36.6x35.1); Small (8.5x7.9x9.0)|
-| 19 | 27.68 |    0          |           1           | (29.56x30.01x19.33)  |
+| 03 | 25.40 | Benign = 0 Malignant = 1    | Benign = 0 Malignant = 0   |Right Breast: (8.5x11.2x9.2)       |
+| 04 | 23.37 | Benign = 1 Malignant = 1    | Benign = 0 Malignant = 0   |Right Breast: Benign(14.0x11.1x6.5); Malignant(9.7x8.7x8.6)|
+| 05 | 23.87 | Benign = 2 Malignant = 0    | Benign = 0 Malignant = 0   |Right Breast: L=(19.1x19.6x18.2); S=(15.5x15.3x13.7)|
+| 06 | 25.00 | Benign = 0 Malignant = 0    | Benign = 0 Malignant = 1   |Left Breast: (12.8x13.5x14.4)      |
+| 07 | 20.44 | Benign = 0 Malignant = 0    | Benign = 0 Malignant = 1   |Left Breast: (8.4x12.4x10.5)       |
+| 08 | 25.61 | Benign = 0 Malignant = 0    | Benign = 0 Malignant = 1   |Left Breast: (18.8x19.1x20.2)      |
+| 09 | 21.67 | Benign = 2 Malignant = 0    | Benign = 0 Malignant = 0   |Right Breast: L=(9.7x7.8x5.4); S=(6.1x5.7x5.6)|
+| 10 | 31.24 | Benign = 0 Malignant = 1    | Benign = 0 Malignant = 0   |Right Breast: (23.1x24.0x23.2)     |
+| 11 | 30.30 | Benign = 0 Malignant = 0    | Benign = 0 Malignant = 1   |Left Breast: (33.2x32.6x29.9)      |
+| 12 | 29.14 | Benign = 0 Malignant = 2    | Benign = 0 Malignant = 0   |Right Breast: L=(11.2x8.9x6.8); S=(10.0x10.1x7.7)|
+| 13 | 24.24 | Benign = 0 Malignant = 1    | Benign = 0 Malignant = 0   |Right Breast: (12.5x10.9x12.5)     |
+| 14 | 25.78 | Benign = 0 Malignant = 1    | Benign = 0 Malignant = 0   |Right Breast: (11.2x11.0x10.3)     |
+| 15 | 24.46 | Benign = 0 Malignant = 0    | Benign = 0 Malignant = 1   |Left Breast: (27.7x24.9x19.7)      |
+| 16 | 24.14 | Benign = 0 Malignant = 0    | Benign = 0 Malignant = 1   |Left Breast: (11.5x12.1x14.8)      |
+| 17 | 28.13 | Benign = 0 Malignant = 0    | Benign = 1 Malignant = 0   |Left Breast: (7.9x7.3x6.3)         |
+| 18 | 29.36 | Benign = 2 Malignant = 0    | Benign = 0 Malignant = 0   |Right Breast: L=(49.0x36.6x35.1); S=(8.5x7.9x9.0)|
+| 19 | 27.68 | Benign = 0 Malignant = 0    | Benign = 0 Malignant = 1   |Left Breast: (29.56x30.01x19.33)   |
 | 20 | 25.15 |    1          |           0           |  (13.8x15.8x12.6)    |
 | 21 | 24.54 |    0          |           1           |    (11.4x11.4x10.6)  |
 | 22 | 24.00 |    0          |           1           | (7.1x7.3x5.4)        |
@@ -72,6 +72,12 @@ We provide one folder per patient, containing:
 | 55 | 21.88 |      0        |              1        |     (20.9x20.8x15.7)   |
 
 BMI = Body Mass Index
+XS - extra small size
+S - small size
+M - medium size
+L - large size
+XL - extra large size
+
 
 ## Compatibility ##
 All files are provided in MHA format. The files were created with the original resolution of the MRI scans.
