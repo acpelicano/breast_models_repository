@@ -71,12 +71,12 @@ We provide one folder per patient, containing:
 | 54 | 25.86 |      1        |              0        |      (6.8x6.1x5.7)   |
 | 55 | 21.88 |      0        |              1        |     (20.9x20.8x15.7)   |
 
-BMI = Body Mass Index
-XS - extra small size
-S - small size
-M - medium size
-L - large size
-XL - extra large size
+BMI = Body Mass Index;
+XS - extra small size;
+S - small size;
+M - medium size;
+L - large size;
+XL - extra large size;
 
 
 ## Compatibility ##
