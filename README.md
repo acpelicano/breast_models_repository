@@ -62,7 +62,7 @@ We provide one folder per patient, containing:
 | 45 | 23.67 |     IC  | R.r=1.79; R.l=1.82     | Benign = 0 Malignant = 2     |Benign = 1 Malignant = 0     |Right Breast: Malignant L=(34.9x43.3x39.8); Malignant S=(9.40x7.81x6.51) & Left Breast: Benign=(7.4x9.3x8.1)  |
 | 46 | 34.38 |    IC   |     | Benign = 2 Malignant = 0     |Benign = 1 Malignant = 2     |Right Breast:Benign L=(9.2x10.8x9.5); Benign M=(9.2x10.3x9.4) & Left Breast: Malignant L=(40.3x41.8x21.1); Malignant S=(9.6x9.1x10.0); Benign S=(8.1x8.2x8.0) |
 | 47 | 21.48 |      -  | R.r=1.55; R.l=1.63    | Benign = 0 Malignant = 0     |Benign = 2 Malignant = 0    |Left Breast: L=(13.8x17.2x18.2); S=(7.4x6.9x6.3)  |
-| 48 | 24.97 |  -      |     | Benign = 1 Malignant = 0     |Benign = 1 Malignant = 0    |Right Breast: L=(9.0x11.6x7.9) & Left Breast: S=(10.2x10.2x8.2)  |
+| 48 | 24.97 |  -      | R.r=2.15; R.l=2.29    | Benign = 1 Malignant = 0     |Benign = 1 Malignant = 0    |Right Breast: L=(9.0x11.6x7.9) & Left Breast: S=(10.2x10.2x8.2)  |
 | 49 | 20.96 |       - |     | Benign = 0 Malignant = 1      |Benign = 0 Malignant = 0    |Right Breast: (17.5x23.6x23.1)  |
 | 50 | 35.16 |       - |     | Benign = 1 Malignant = 0      |Benign = 0 Malignant = 0    |Right Breast: (10.8x8.5x10.3)  |
 | 51 | 24.09 |      -  |     | Benign = 1 Malignant = 0      | Benign = 0 Malignant = 0   | Right Breast: (6.9x8.1x8.7)  |
