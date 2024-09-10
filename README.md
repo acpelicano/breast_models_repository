@@ -58,7 +58,7 @@ We provide one folder per patient, containing:
 | 41 | 21.72 |    IC   | R.r=1.33; R.l=1.52  |  Benign = 2 Malignant = 1    |Benign = 2 Malignant = 0    |Right Breast: Malignant=(30.9X43.8X40.1); Benign XL=(19.4x26.8x28.7); Benign XS=(8.7x10.3x10.1) & Right Breast: Benign L=(23.6x20.2x19.7); Benign S=(12.3x15.8x14.0)|
 | 42 | 21.45 |     -   |     | Benign = 1 Malignant = 0     |Benign = 0 Malignant = 0     |Right Breast: (9.1x9.1x7.6)    |
 | 43 | 31.25 |     IC  | R.r=1.67; R.l=1.68    | Benign = 0 Malignant = 0     |Benign = 0 Malignant = 1     |Left Breast: (16.7x17.3x15.9)  |
-| 44 | 21.45 |     IC  |     | Benign = 0 Malignant = 1     |Benign = 0 Malignant = 0     |Right Breast: (42.5x37.4x29.0)  |
+| 44 | 21.45 |     IC  | R.r=1.34; R.l=1.52    | Benign = 0 Malignant = 1     |Benign = 0 Malignant = 0     |Right Breast: (42.5x37.4x29.0)  |
 | 45 | 23.67 |     IC  |     | Benign = 0 Malignant = 2     |Benign = 1 Malignant = 0     |Right Breast: Malignant L=(34.9x43.3x39.8); Malignant S=(9.40x7.81x6.51) & Left Breast: Benign=(7.4x9.3x8.1)  |
 | 46 | 34.38 |    IC   |     | Benign = 2 Malignant = 0     |Benign = 1 Malignant = 2     |Right Breast:Benign L=(9.2x10.8x9.5); Benign M=(9.2x10.3x9.4) & Left Breast: Malignant L=(40.3x41.8x21.1); Malignant S=(9.6x9.1x10.0); Benign S=(8.1x8.2x8.0) |
 | 47 | 21.48 |      -  |     | Benign = 0 Malignant = 0     |Benign = 2 Malignant = 0    |Left Breast: L=(13.8x17.2x18.2); S=(7.4x6.9x6.3)  |
@@ -91,6 +91,11 @@ All files are provided in MHA format. The files were created with the original r
 Women were imaged in a prone position in a 3.0T MAGNETON Vida clinical MR scan (Siemens Healthineers, Erlangen – Germany) with a dedicated coil (Siemens Breast 18 coil) for the breast. This study was approved by the Scientific and Ethical Commission of Hospital da Luz – Lisboa, under references CES/44/2019/ME (19/09/2019) and CES/34/2020/ME (06/11/2020).
 
 ## Cite Us ##
-If you use some of these models, please cite us with:
+If you use these models, please cite us:
 
 Pelicano, A.C.; Gonçalves, M.C.T.; Godinho, D.M.; Castela, T.; Orvalho, M.L.; Araújo, N.A.M.; Porter, E.; Conceição, R.C. Development of 3D MRI-Based Anatomically Realistic Models of Breast Tissues and Tumours for Microwave Imaging Diagnosis. Sensors 2021, 21, 8265. https://doi.org/10.3390/s21248265
+
+and
+
+Pelicano, A.C.; Gonçalves, M.C.T.; Castela, T.; Orvalho, M.L.; Araújo, N.A.M.; Porter, E.; Conceição, R.C.; Godinho, D.M. Repository of MRI-derived models of the breast with single and multiple benign and malignant tumors for microwave imaging research. PLoS One 2024, 19(5):e0302974. https://doi.org/10.1371/journal.pone.0302974.
+
