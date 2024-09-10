@@ -79,6 +79,7 @@ L - large size;
 XL - extra large size;
 
 F = Fibroadenoma; IC = Invasive Carcinoma; IP= Intraductal Pappiloma; ILC = Invasive Lobular Carcinoma; PC = Pappilary Carcinoma
+
 R = ratio between fibroglandular and fatty tissues. (R.r and R.l indicate the ratio for the right and left breast, respectively)
 
 
