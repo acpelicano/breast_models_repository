@@ -52,7 +52,7 @@ We provide one folder per patient, containing:
 | 35 | 21.88 |   IC    |R.r=1.69; R.l=1.87| Benign = 0 Malignant = 1    |Benign = 0 Malignant = 0    |Right Breast: (18.3x23.5x18.9)     |
 | 36 | 31.18 |   IC    |R.r=2.40; R.l=2.56| Benign = 0 Malignant = 0     | Benign = 0 Malignant = 1   |Left Breast: (11.4x11.5x10.9)     |
 | 37 | 25.97 |     -   |R.r=1.99; R.l=2.08| Benign = 0 Malignant = 0     |  Benign = 2 Malignant = 0  |Left Breast: L=(7.5x6.5x5.1); S=(6.4x3.2x5.8)    |
-| 38 | 23.73 |      -  |     | Benign = 1 Malignant = 0     | Benign = 0 Malignant = 0   |Right Breast: (7.0x6.7x5.6)    |
+| 38 | 23.73 |      -  |R.r=1.97; R.l=2.05| Benign = 1 Malignant = 0     | Benign = 0 Malignant = 0   |Right Breast: (7.0x6.7x5.6)    |
 | 39 | 19.28 |       - |R.r=1.25; R.l=1.34| Benign = 0 Malignant = 0     | Benign = 1 Malignant = 0   |Left Breast: (5.6x6.3x5.0)    |
 | 40 | 23.12 |    IC   |R.r=1.20; R.l=1.38| Benign = 0 Malignant = 1    |Benign = 0 Malignant = 0    |Right Breast: (10.9x15.0x9.7)    |
 | 41 | 21.72 |    IC   |R.r=1.33; R.l=1.52|  Benign = 2 Malignant = 1    |Benign = 2 Malignant = 0    |Right Breast: Malignant=(30.9X43.8X40.1); Benign XL=(19.4x26.8x28.7); Benign XS=(8.7x10.3x10.1) & Right Breast: Benign L=(23.6x20.2x19.7); Benign S=(12.3x15.8x14.0)|
@@ -63,7 +63,7 @@ We provide one folder per patient, containing:
 | 46 | 34.38 |    IC   |R.r=2.52; R.l=2.68| Benign = 2 Malignant = 0     |Benign = 1 Malignant = 2     |Right Breast:Benign L=(9.2x10.8x9.5); Benign M=(9.2x10.3x9.4) & Left Breast: Malignant L=(40.3x41.8x21.1); Malignant S=(9.6x9.1x10.0); Benign S=(8.1x8.2x8.0) |
 | 47 | 21.48 |      -  |R.r=1.55; R.l=1.63| Benign = 0 Malignant = 0     |Benign = 2 Malignant = 0    |Left Breast: L=(13.8x17.2x18.2); S=(7.4x6.9x6.3)  |
 | 48 | 24.97 |  -      |R.r=2.15; R.l=2.29| Benign = 1 Malignant = 0     |Benign = 1 Malignant = 0    |Right Breast: L=(9.0x11.6x7.9) & Left Breast: S=(10.2x10.2x8.2)  |
-| 49 | 20.96 |       - |     | Benign = 0 Malignant = 1      |Benign = 0 Malignant = 0    |Right Breast: (17.5x23.6x23.1)  |
+| 49 | 20.96 |       - |R.r=1.53; R.l=1.58| Benign = 0 Malignant = 1      |Benign = 0 Malignant = 0    |Right Breast: (17.5x23.6x23.1)  |
 | 50 | 35.16 |       - |R.r=2.48; R.l=2.52| Benign = 1 Malignant = 0      |Benign = 0 Malignant = 0    |Right Breast: (10.8x8.5x10.3)  |
 | 51 | 24.09 |      -  |R.r=1.58; R.l=1.65| Benign = 1 Malignant = 0      | Benign = 0 Malignant = 0   | Right Breast: (6.9x8.1x8.7)  |
 | 52 | 31.63 |       - |R.r=2.30; R.l=2.34| Benign = 2 Malignant = 0      |Benign = 1 Malignant = 0    |Right Breast: L=(16.1x19.4x11.8);M=(8.5x11.0x10.0) & Left Breast: S=(7.9x7.1x6.9)  |
@@ -72,6 +72,8 @@ We provide one folder per patient, containing:
 | 55 | 21.88 |    PC   |R.r=1.66; R.l=1.77| Benign = 0 Malignant = 1     | Benign = 0 Malignant = 0    |Right Breast: (20.9x20.8x15.7)   |
 
 BMI = Body Mass Index;
+R = ratio between fibroglandular and fatty tissues. (R.r and R.l indicate the ratio for the right and left breast, respectively)
+
 XS - extra small size;
 S - small size;
 M - medium size;
@@ -80,7 +82,7 @@ XL - extra large size;
 
 F = Fibroadenoma; IC = Invasive Carcinoma; IP= Intraductal Pappiloma; ILC = Invasive Lobular Carcinoma; PC = Pappilary Carcinoma
 
-R = ratio between fibroglandular and fatty tissues. (R.r and R.l indicate the ratio for the right and left breast, respectively)
+
 
 
 
