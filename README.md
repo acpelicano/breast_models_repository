@@ -72,7 +72,7 @@ We provide one folder per patient, containing:
 | 55 | 61  |21.88 |    PC   |R.r=1.66; R.l=1.77| Benign = 0 Malignant = 1     | Benign = 0 Malignant = 0    |Right Breast: (20.9x20.8x15.7)   |
 
 BMI = Body Mass Index;
-R = ratio between fibroglandular and fatty tissues. (R.r and R.l indicate the ratio for the right and left breast, respectively)
+R = ratio between fatty and fibroglandular tissues. (R.r and R.l indicate the ratio for the right and left breast, respectively)
 
 XS - extra small size;
 S - small size;
